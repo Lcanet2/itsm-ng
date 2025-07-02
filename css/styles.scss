@@ -6846,3 +6846,8 @@ kbd {
    left: 50%;
    cursor: pointer;
 }
+
+form[name="plugin_formcreator_form"] {
+min-height: calc(100vh - 100px);
+padding-bottom: 80px;
+}
